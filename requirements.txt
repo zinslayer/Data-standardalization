@@ -6,7 +6,7 @@ streamlit-agraph==0.0.45
 plotly==5.18.0
 numpy==1.26.3
 requests==2.31.0
-python==3.11
+
 
 
 
