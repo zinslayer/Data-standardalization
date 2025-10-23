@@ -1,0 +1,12 @@
+python-3.11.0
+```
+
+**Complete file structure should be:**
+```
+your-repo/
+├── app.py
+├── requirements.txt          # ← Must be here
+├── runtime.txt               # ← Add this
+├── packages.txt              # ← Optional
+└── .streamlit/
+    └── config.toml          # ← Add this
